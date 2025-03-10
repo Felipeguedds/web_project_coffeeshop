@@ -254,8 +254,7 @@
   font-size: 44px;
   line-height: 52px;
   position: relative;
-  margin-top: 100px;
-  margin-bottom: 0;
+  margin: 100px 0 0;
   padding: 0;
 }
 
@@ -322,13 +321,13 @@
   opacity: 70%;
 }
 
-.form__label--checkbox {
+.form__label_checkbox {
   display: flex;
   flex-direction: row;
   column-gap: 12px;
 }
 
-.form__input--checkbox {
+.form__checkbox {
   border-radius: 2px;
   background-color: #2f80ed;
   background-image: url(../images/check.svg);
