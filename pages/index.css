@@ -255,7 +255,9 @@
   line-height: 52px;
   position: relative;
   margin-top: 100px;
+  margin-left: 0;
   margin-bottom: 80px;
+  margin-right: 0;
   padding: 0;
 }
 
