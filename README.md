@@ -4,11 +4,11 @@ Landing page de uma cafeteria fictícia, com receitas em vídeo e um formulário
 
 Demo ao vivo: [felipeguedds.github.io/web_project_coffeeshop](https://felipeguedds.github.io/web_project_coffeeshop/)
 
-Foi o projeto da Sprint 4 do bootcamp da TripleTen.
+Fiz esse projeto na Sprint 4 do bootcamp da TripleTen.
 
 ## Funcionalidades
 
-O menu do topo leva direto para cada seção. Na parte de receitas há vídeos incorporados com o tempo de preparo de cada método. O formulário de reserva pede nome, número de pessoas, data e horário e e-mail, com um checkbox personalizado de aceite. O rodapé reúne os contatos e as redes sociais da cafeteria.
+O menu do topo leva direto para cada seção. Na parte de receitas tem vídeos com o tempo de preparo de cada método. O formulário de reserva pede nome, número de pessoas, data e horário e e-mail, e no fim tem um checkbox de aceite. O rodapé reúne os contatos e as redes sociais da cafeteria.
 
 ## Construído com
 
